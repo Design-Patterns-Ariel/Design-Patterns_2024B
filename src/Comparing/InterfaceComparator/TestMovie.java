@@ -1,4 +1,4 @@
-package L02.InterfaceComparator;
+package Comparing.InterfaceComparator;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -18,6 +18,7 @@ public class TestMovie {
 		//                  (3) Print Sorted list 
 		System.out.println("Sorted by name"); 
 		NameCompare nameCompare = new NameCompare();
+		
 		Collections.sort(list, nameCompare);
 		for (Movie movie: list) 
 			System.out.println(movie.getRating() + " " + movie.getName() + " " + movie.getYear());

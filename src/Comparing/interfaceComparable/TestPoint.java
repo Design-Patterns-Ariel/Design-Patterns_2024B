@@ -1,4 +1,5 @@
-package L01.interfaceComparable;
+
+package Comparing.interfaceComparable;
 import java.util.Arrays;
 public class TestPoint {
 	public static void main(String[] args) {
