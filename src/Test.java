@@ -2,7 +2,7 @@ import JUNIT.Junit.Java.Calculator;
 
 import java.util.Random;
 
-public class Main {
+public class Test {
 
 
     static Random rd = new Random();
