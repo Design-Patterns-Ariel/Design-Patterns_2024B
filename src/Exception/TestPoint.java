@@ -1,4 +1,4 @@
-package L04.exceptions;
+package Exception;
 
 public class TestPoint {
     public static void main(String[] args) {

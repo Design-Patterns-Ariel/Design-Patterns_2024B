@@ -1,4 +1,4 @@
-package L04.exceptions;
+package Exception;
 import java.util.StringTokenizer;
 
 public class TesrStringTokenizer {

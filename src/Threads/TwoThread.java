@@ -10,6 +10,7 @@ public class TwoThread {
         Thread t = new Thread(new printThread());
         t.start();
 
+
         while (true)
             System.out.println("Hello");
 
