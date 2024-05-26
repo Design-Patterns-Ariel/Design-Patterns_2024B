@@ -1,4 +1,4 @@
-package JUNIT.Facade;
+package Facade;
 
 public class ATMFacade extends ATMAction{
 

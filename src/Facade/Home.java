@@ -1,4 +1,4 @@
-package JUNIT.Facade;
+package Facade;
 
 class Home implements Action {
 

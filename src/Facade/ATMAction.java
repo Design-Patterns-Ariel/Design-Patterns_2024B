@@ -1,4 +1,4 @@
-package JUNIT.Facade;
+package Facade;
 
 public abstract class ATMAction {
 
