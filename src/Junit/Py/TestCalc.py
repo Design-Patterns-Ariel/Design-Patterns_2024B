@@ -3,7 +3,7 @@ from Calc import Calculator
 
 
 class TestCalculator(unittest.TestCase):
-
+    
     def setUp(self):
         self.calc = Calculator()
         print("Before each test")
