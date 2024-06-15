@@ -10,6 +10,7 @@ class ComputerTest {
 
 interface ComputerProto extends Cloneable {
     Computer clone();
+
 }
 
 public class Computer implements ComputerProto {
